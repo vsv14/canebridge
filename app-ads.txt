@@ -1,4 +1,1 @@
-unknow
-unknow - changed file
-unknow - changed file
-unknow - changed file -> check rules
+unknow - changed file -> check rules - TEST
